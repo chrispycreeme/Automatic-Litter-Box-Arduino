@@ -10,15 +10,15 @@ Automatic Cat Litter Box Cleaner Code in Arduino
 
 #### Set Time of Cleaning Delay at Setup;
 
-Rotate the Potentiometer Clockwise to Decrease the Time Interval of the Cleaning Process, Counterclockwise to increase.
+- Rotate the Potentiometer Clockwise to Decrease the Time Interval of the Cleaning Process, Counterclockwise to increase.
 
 #### Set Time of Cleaning Delay during the Cleaning Process;
 
-Hold the button for around 6 seconds and wait until a cycle has been finished to enter the Set Time Mode.
+- Hold the button for around 6 seconds and wait until a cycle has been finished to enter the Set Time Mode.
 
 #### Entering the Cleaning Cycle/Process;
 
-Press the button 3 times slowly after setting the time.
+- Press the button 3 times slowly after setting the time.
 
 
 
